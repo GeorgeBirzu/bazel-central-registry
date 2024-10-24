@@ -7,7 +7,7 @@
  module(
      name = "toolchains_llvm",
 -    version = "v1.2.0",
-+    version = "1.2.0",
++    version = "1.2.100",
      compatibility_level = 0,
      bazel_compatibility = [">=7.0.0"],
  )
